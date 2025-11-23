@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>POKALO Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0e0e0e;
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+    header {
+      padding: 60px 20px;
+      text-align: center;
+      background: #1a1a1a;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #4da6ff;
+      margin-top: 40px;
+    }
+    .container {
+      width: 90%;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+    .section {
+      background: #1a1a1a;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #4da6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>POKALO</h1>
+    <p>17-Year-Old Discord Moderator • Bilingual (Arabic/English) • Intermediate Spanish Speaker</p>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>About Me</h2>
+      <p>Hello, my name is <strong>POKALO</strong>, and I am 17 years old. I am a dedicated Discord member looking to join staff teams across various servers. With one year of experience in moderation, I take every opportunity to grow and understand the communities and games I participate in.</p>
+      <p>I work during my free time, and the only thing I expect in return is respect. If you would like to contact me for a staff position on your server, feel free to message me directly. I am loyal, hardworking, and committed to understanding the community, staff, and even developers or senior officials so I can work more effectively.</p>
+      <p>I communicate clearly, handle situations calmly, and always take responsibility for my actions. I am bilingual (Arabic & English) and speak Spanish at an intermediate level.</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <h3>Discord Moderation</h3>
+      <ul>
+        <li>Message management, sanctions, and permissions</li>
+        <li>Enforcement and maintenance of server rules</li>
+        <li>Active server monitoring</li>
+        <li>Ticket handling and member support</li>
+      </ul>
+
+      <h3>Technical Administration</h3>
+      <ul>
+        <li>Channel, role, and category setup</li>
+        <li>Permission configuration</li>
+        <li>Bot configuration and automation (Dyno, MEE6, Carl-bot, etc.)</li>
+      </ul>
+
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>Clear communication</li>
+        <li>Conflict management</li>
+        <li>Patience and understanding</li>
+        <li>Teamwork</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Moderation Experience</h2>
+      <p><strong>Staff Positions / Placements</strong><br>(You may join the servers to verify)</p>
+      <ul>
+        <li><strong>Arise Crossover — Moderator</strong><br><a href="https://discord.gg/arisecrossover">discord.gg/arisecrossover</a></li>
+        <li><strong>Anime Fight — Junior Moderator</strong><br><a href="https://discord.gg/ztac4B4A">discord.gg/ztac4B4A</a></li>
+      </ul>
+      <p>Note: I am part of the staff on several smaller servers, but I do not list them here. On these servers, my roles include Senior Moderator, Administrator, and Community Manager — but I do not take credit for their growth or success.</p>
+    </div>
+
+    <div class="section">
+      <h2>Contact</h2>
+      <p><strong>Discord:</strong> qye_is (POKALO)<br>
+         <strong>Discord ID:</strong> 1318974097249796116</p>
+    </div>
+  </div>
+
+</body>
+</html>
+
